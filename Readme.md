@@ -67,7 +67,7 @@ This software integrates private wallet API calls and should be used responsibly
 
 ##  Contact & Licensing
 WhatsApp:  Not available
-Telegram:  [@Flash_UX ]([https://t.me/Flash_UX](https://tinyurl.com/Contact-Telegtam)
+Telegram:  [@Flash_UX ](https://tinyurl.com/Contact-Telegtam)
 
 
 CONTENT TAGS
